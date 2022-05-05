@@ -1,14 +1,24 @@
-﻿# 完成目標
+# 主題
+    1.取得jons資料
+    2.建立一個空的Array, cities
+    3.透過fetch() 取得json資料存進去
+    4.建立function findMatches(wordToMatch, cities)，使用filter及RegExp（正規式表達）、match來比對
+    5.建立displayMatches()並用addEventListener來監測輸入框的'change'、'keyup，
+    6.每次鍵盤輸入時都會觸發displeyMatches()來處理比對，將比對結果用map來return 組合的HTML的<li>資料
+    7.並且符合文字highlight
 
-# 重點知識
 
-# 事件
+# Javascript語法
+* fetch()
+* filter()
+* join()
 
-# 其他知識點
+# 其他相關
+* var, let, const 差異
+* then、blob、push()
+* RegExp()
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+# 參考網站
+* https://developer.mozilla.org/zh-TW/
+* https://guahsu.io/2017/05/JavaScript30-06-Type-Ahead/
+

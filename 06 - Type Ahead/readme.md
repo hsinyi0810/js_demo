@@ -22,4 +22,5 @@
 * https://developer.mozilla.org/zh-TW/
 * https://guahsu.io/2017/05/JavaScript30-06-Type-Ahead/
 * https://ithelp.ithome.com.tw/articles/10218547
+* https://medium.com/jslearner/%E7%AD%86%E8%A8%98-javascript30%E5%AD%B8%E7%BF%92-day6-6fa01d0c238b
 
